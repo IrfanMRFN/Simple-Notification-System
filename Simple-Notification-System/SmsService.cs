@@ -1,10 +1,12 @@
-namespace Simple_Notification_System;
+namespace SimpleNotificationSystem;
 
 public class SmsService : INotificationService
 {
     public void Send(string recipient, string messageBody)
     {
-        if (int.TryParse(recipient, out int result))
+        bool isValidNumber = !string.IsNullOrWhiteSpace(recipient) && recipient.All(char.IsAsciiDigit);
+
+        if (isValidNumber)
         {
             Console.WriteLine($"\nSending message to {recipient}");
             Console.WriteLine("-------------------------------");

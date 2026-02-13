@@ -1,4 +1,4 @@
-namespace Simple_Notification_System;
+namespace SimpleNotificationSystem;
 
 public class PushNotificationService : INotificationService
 {
