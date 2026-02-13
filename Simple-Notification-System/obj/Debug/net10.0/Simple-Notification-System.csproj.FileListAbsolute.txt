@@ -1,0 +1,15 @@
+f:\C# Projects\Simple Projects\Simple Notification System\Simple-Notification-System\Simple-Notification-System\bin\Debug\net10.0\Simple-Notification-System.exe
+f:\C# Projects\Simple Projects\Simple Notification System\Simple-Notification-System\Simple-Notification-System\bin\Debug\net10.0\Simple-Notification-System.deps.json
+f:\C# Projects\Simple Projects\Simple Notification System\Simple-Notification-System\Simple-Notification-System\bin\Debug\net10.0\Simple-Notification-System.runtimeconfig.json
+f:\C# Projects\Simple Projects\Simple Notification System\Simple-Notification-System\Simple-Notification-System\bin\Debug\net10.0\Simple-Notification-System.dll
+f:\C# Projects\Simple Projects\Simple Notification System\Simple-Notification-System\Simple-Notification-System\bin\Debug\net10.0\Simple-Notification-System.pdb
+f:\C# Projects\Simple Projects\Simple Notification System\Simple-Notification-System\Simple-Notification-System\obj\Debug\net10.0\Simple-Notification-System.GeneratedMSBuildEditorConfig.editorconfig
+f:\C# Projects\Simple Projects\Simple Notification System\Simple-Notification-System\Simple-Notification-System\obj\Debug\net10.0\Simple-Notification-System.AssemblyInfoInputs.cache
+f:\C# Projects\Simple Projects\Simple Notification System\Simple-Notification-System\Simple-Notification-System\obj\Debug\net10.0\Simple-Notification-System.AssemblyInfo.cs
+f:\C# Projects\Simple Projects\Simple Notification System\Simple-Notification-System\Simple-Notification-System\obj\Debug\net10.0\Simple-Notification-System.csproj.CoreCompileInputs.cache
+f:\C# Projects\Simple Projects\Simple Notification System\Simple-Notification-System\Simple-Notification-System\obj\Debug\net10.0\Simple-Notification-System.sourcelink.json
+f:\C# Projects\Simple Projects\Simple Notification System\Simple-Notification-System\Simple-Notification-System\obj\Debug\net10.0\Simple-Notification-System.dll
+f:\C# Projects\Simple Projects\Simple Notification System\Simple-Notification-System\Simple-Notification-System\obj\Debug\net10.0\refint\Simple-Notification-System.dll
+f:\C# Projects\Simple Projects\Simple Notification System\Simple-Notification-System\Simple-Notification-System\obj\Debug\net10.0\Simple-Notification-System.pdb
+f:\C# Projects\Simple Projects\Simple Notification System\Simple-Notification-System\Simple-Notification-System\obj\Debug\net10.0\Simple-Notification-System.genruntimeconfig.cache
+f:\C# Projects\Simple Projects\Simple Notification System\Simple-Notification-System\Simple-Notification-System\obj\Debug\net10.0\ref\Simple-Notification-System.dll
